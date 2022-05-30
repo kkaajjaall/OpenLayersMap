@@ -1,0 +1,23 @@
+.map {
+    height: 70vh;
+    width: 100%;
+  }
+
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    padding:0;
+}
+.subheading{
+    border-bottom: 1px solid silver;
+    padding-bottom: 10px;
+    
+}
+.sidebar{
+  border: 1px solid silver; 
+  padding:50px 
+ 
+}
+
